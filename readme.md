@@ -113,17 +113,17 @@ Gateway IP = 192.168.0.100
 
 **Original ARP cache and packets:**
 
-![](.//media/image4.PNG)
+![](.//media/image4.png)
 
 ScreenCap - Original ARP Cache
 
-![](.//media/image5.PNG)
+![](.//media/image5.png)
 
 ScreenCap - Original ARP Packet Capture
 
 **Poisoned ARP cache and packets:**
 
-![](.//media/image6.PNG)
+![](.//media/image6.png)
 
 ScreenCap - Poisoned ARP Cache
 
