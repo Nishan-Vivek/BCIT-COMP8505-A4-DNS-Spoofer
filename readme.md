@@ -11,11 +11,11 @@ To design a basic DNS spoofing application using any language of your choice.
 ### Diagrams
 
 
-![](.//media/diagram1.png)
+![](.//media/diagram1.PNG)
 Figure - Conceptual MITM Diagram
-![](.//media/diagram2.png)
+![](.//media/diagram2.PNG)
 Figure - System Diagram
-![](.//media/diagram3.png)
+![](.//media/diagram3.PNG)
 Figure - State Diagram
 
 ### Pseudocode
